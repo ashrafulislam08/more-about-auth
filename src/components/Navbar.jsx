@@ -9,7 +9,7 @@ const Navbar = () => {
       </div>
       <div className="space-x-4">
         <NavLink to="/">Home</NavLink>
-        <NavLink to="/all-treatment">All Treatment</NavLink>
+        <NavLink to="/all-treatments">All Treatment</NavLink>
         <NavLink to="/my-appointment">My Appointment</NavLink>
         <NavLink to="/profile">Profile</NavLink>
       </div>
